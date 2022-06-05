@@ -51,8 +51,6 @@ const fuctionUrl = async (letters)=>{
         console.log(e)
     }
 }
-fuctionUrl();
-
 
 const createCards = (names)=>{
 
